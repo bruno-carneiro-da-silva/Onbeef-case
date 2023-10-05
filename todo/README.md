@@ -101,8 +101,6 @@ npx tailwindcss-cli@latest init
 @tailwind utilities;
 ```
 
-![Untitled](TODO%20application%203987602523774d06877078f0a10b59fa/Untitled.png)
-
 Optional
 
 Prettier Extension needs to be installed
